@@ -5,11 +5,11 @@
 | <a href="https://github.com/BELECTRON13"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BELECTRON13&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/BELECTRON13"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BELECTRON13&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-**💻 Tools**
+# 💻 Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-**GroupManagerBot**
+# 👾 GroupManagerBot
 ![Clients](https://github.com/joshnesbitt/joshnesbitt/blob/main/clients.png?raw=true)
