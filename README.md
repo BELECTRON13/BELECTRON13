@@ -1,7 +1,7 @@
 ### Hi there 👋
 **My name is BeLectron 🛸**
 
-Welcome to my GitHub account ! 🪐
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=25&pause=1000&color=B200F7&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%AA%90;Backend+Developer;Telegram+Bot+Develpoer)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BELECTRON13)](https://github.com/BELECTRON13)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BELECTRON13&layout=donut-vertical)](https://github.com/BELECTRON13)
