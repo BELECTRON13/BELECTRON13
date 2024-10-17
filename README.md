@@ -18,4 +18,4 @@
 
 
 # 👾 GroupManagerBot
-* A powerful group management bot for Telegram messenger
+* A powerful group management bot for Bale messenger! ![Hastiyar](https://img.shields.io/badge/Hastiyar-group management)
