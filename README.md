@@ -14,7 +14,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-696969?style=flat-square&logo=Selenium&logoColor=green)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 
 # 👾 GroupManagerBot
