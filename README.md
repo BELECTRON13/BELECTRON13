@@ -18,4 +18,4 @@
 
 
 # 👾 GroupManagerBot
-![Clients]()
+* A powerful group management bot for Telegram messenger
