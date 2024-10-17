@@ -10,10 +10,11 @@
 # 💻 Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-FFF5EE?style=flat-square&logo=FastAPI&logoColor=3CB371)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 
 # 👾 GroupManagerBot
-![Clients](https://github.com/joshnesbitt/joshnesbitt/blob/main/clients.png?raw=true)
+![Clients]()
