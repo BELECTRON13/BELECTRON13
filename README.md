@@ -18,4 +18,5 @@
 
 
 # 👾 GroupManagerBot
-* A powerful group management bot for Bale messenger! ![Hastiyar](https://img.shields.io/badge/Hastiyar-GroupManager)
+* A powerful group management bot for Bale messenger!
+![Hastiyar](https://img.shields.io/badge/Hastiyar-GroupManager)
